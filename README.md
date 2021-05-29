@@ -8,5 +8,5 @@ These last days, I'm learning quantum mechanics, math and HTML/CSS, obviously I 
 
 I'm looking to collaborate on SuperTux Project, an open-source game based on Super Mario. Because will be good for me to improving my C++ and draw skills and for help the development of the game which I most like. 
 
-Anyone looking to contact me may [email me](mailto:andrepinheiro2004@gmail.com) or find me on Discord as ❖ C4ıηαη Τнε Nεrd ❖#3599.
+Anyone looking to contact me may [email me](mailto:andrepinheiro2004@gmail.com).
 
