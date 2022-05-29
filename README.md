@@ -1,4 +1,4 @@
-# ![](https://github.com/AndrePinheiroPT/AndrePinheiroPT/blob/main/MiniAndreOC.png) André
+# André
 
 Hello! I'm André! I code some programs mainly using Python and JavaScript, though I have some knowledge of C++, C# and HTML/CSS.
 
