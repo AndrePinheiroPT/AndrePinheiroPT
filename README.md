@@ -1,9 +1,13 @@
 # André Pinheiro
 
-Hello! I'm André Pinheiro! I code some programs mainly using Python and C++, though I have some knowledge of JavaScript, C# and HTML/CSS.
+Hello! I'm André Pinheiro, currently doing 2nd year of B.Sc., Computer Science at University of Minho.
 
-Currently I'm working on some simulators/experiments, like [Matik](https://github.com/AndrePinheiroPT/Matik), an engine for plot math objects and [Neural Network for T-Rex Game](https://github.com/AndrePinheiroPT/T-Rex-Game-Neural-Network), the t-rex game with a neural network for playing it using genetic algorithm. 
-I ever have the goal of make the programs simple and easy to understand.
+Besides my studies at university, I am currently looking at improving my problem-solving skills by grinding competitive programming and mathematical olympiads, which are the subjects I most like. 
+My long-term goals are to enjoy a research career and of course having fun solving problems :)
+
+Social media: 
+ - [Codeforces](https://codeforces.com/profile/Razzle)
+ - [AoPS](https://artofproblemsolving.com/community/user/1055374)
 
 Anyone looking to contact me may [email me](mailto:andrepinheiro2004@gmail.com).
 
