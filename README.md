@@ -23,11 +23,6 @@ I'm a 21-year-old and I am currently looking at improving my problem-solving ski
 - 2024 - Participation, as team member, in the ACM-ICPC (International Collegial Programming Contest) South Western European Regional Contest (ranked 86th)
 - 2025 - *Bolsa de Excelência*, as the student who finished the 2023/2024 of BSc in Computer Science with the highest GPA
 
-## Social Media
-
- - [Codeforces](https://codeforces.com/profile/Razzle)
- - [AoPS](https://artofproblemsolving.com/community/user/1055374)
-
 ## Contacts
 
 Anyone looking to contact me may [email me](mailto:andrepinheiro2004@gmail.com).
