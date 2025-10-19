@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm André Pinheiro, currently doing 2nd year of B.Sc., Computer Science at University of Minho.
+I'm André Pinheiro, currently doing 3rd year of B.Sc., Computer Science at University of Minho.
 
 ## About Me
 
@@ -22,6 +22,7 @@ I'm a 21-year-old and I am currently looking at improving my problem-solving ski
 - 2023 and 2024 - Attended *Associação Tempos Brilhantes* as a Chess Teacher of elementary school students
 - 2024 - Participation, as team member, in the ACM-ICPC (International Collegial Programming Contest) South Western European Regional Contest (ranked 86th)
 - 2025 - *Bolsa de Excelência*, as the student who finished the 2023/2024 of BSc in Computer Science with the highest GPA
+- 2025 - Attended INESC TEC Summer Internships. Topic of internship was about Hamiltonian Monte Carlo for the generation of adversarial examples.
 
 ## Contacts
 
