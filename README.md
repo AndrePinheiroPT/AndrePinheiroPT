@@ -4,7 +4,7 @@ I'm André Pinheiro, B.Sc. in Computer Science from the University of Minho.
 
 ## About Me
 
-I am 22 years old and I have a passion for problem-solving and maths in general. My main hobbies are drawing, solving problems and learning new stuff. My long-term goals are to enjoy a research career and look for good results in ICPC :)
+I have a passion for problem-solving and maths in general. My main hobbies are drawing, solving problems and learning new stuff. My long-term goals are to enjoy a research career and look for good results in ICPC :)
 
 ## Skills & Technologies
 
